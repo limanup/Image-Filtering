@@ -1,4 +1,4 @@
-### Filter
+### Image Filter
 
 A program that applies filters to 24-bit BMP files. There are 4 filters available:
 
