@@ -10,13 +10,13 @@ A program that applies filters to 24-bit BMP files. There are 4 filters availabl
 #### To compile the program:
 
 ```
-$ make filter
+make filter
 ```
 
 #### To apply filter on images:
 
 ```
-$ ./filter -g images/IMAGE.bmp OUTPUT.bmp
+./filter -g images/IMAGE.bmp OUTPUT.bmp
 ```
 
 where `IMAGE.bmp` is the name of an image file stored under `images` folder, `-g` indicates applying greyscale filter and `OUTPUT.bmp` is the name given to an output image file.
