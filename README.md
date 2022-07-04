@@ -2,8 +2,8 @@
 
 A program that applies filters to 24-bit BMP files. There are 4 filters available:
 
--   **grayscale**: black-and-white version of the same image.
--   **reflect**: image reflected horizontally.
+-   [**grayscale**](#grayscale): black-and-white version of the same image.
+-   [**reflect**](#reflection): image reflected horizontally.
 -   **blur**: box-blurred version of the same image.
 -   **edges**: highlight the edges between objects, according to the Sobel operator.
 
